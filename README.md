@@ -17,4 +17,6 @@ Many browsers have a maximum size of an HTML5 canvas element, typically with any
 Of course, creating one larger than this throws no errors neither from the creation nor the drawing to it (no drawing actions will complete)
 
 
+## Unicode unicode everywhere
 
+a̢̧̛̱͉̤̿᷃̐ͪ̿͊̿̄̿͢͠n̸̖̯̗͉̱͙̙͇̿᷁̿̌̿̿d͚͚͉̺͈̅̿͒̿̉̿᷆̿͊͟ a̢͉̜͈̿̄᷄̿ͭ͐̿ͩͣ̿̕l̛̦̲͉̩̘͍̿ͫ̿̀̿̿̾͞l̵͉͖͓̿̊̂̊̿̿ͩ̿̎̕͘ ̗̥́̿̍̿͠͞t̸̸͉̪ͯ̿ͨ̿͊̋̿̂᷄̿᷈ḩ̷͖͉̂̿͋̿̔̀̿ͫ͒̿͟e͍̠̣̦͉͓̿͛̿̇̿̔᷅̈́̿ b̸̳̱͉᷊̤̿͗̿ͦ̿͆̿͢͢o̢͉͔͍͐̿᷉́̿̎̿̃̿ͨ̕ȃ̯̗͉̭͚͎̿ͧ̿̐̿̔͛̿r͉̱͔̜̿᷾ͤͬ̿̏́̿̿̚͘d̶͙͉̖̗͓̝͂̿̈̿͌̿ͬ̿s̵̹͎̻͉͙̼͂̿̿́̿ͪ̿᷆ d̡͔͉͚͉̮͇̳̫͉͖᷄̿͗ͪ̿᷇̿͛̿͐̿̎̿ͧ̿᷅ͤ᷃̿͞i̵̴̛͈͉̿᷄̿ͫ̿͑̿ͧ̚͞d̴͉̹̒̿͗͗͗̿ͣ̈̿̿̿ͩ s͍̘̬͉̜̿ͩ̿͐̿̔᷄̿͞͞h̳̤̮͉͎̺̿̿̾̿̿̑̚͘͡r͉̤͈ͦ̿̓᷁ͤ̿̋̿̐̄̿̽į̛͉͕̪̲᷾̿ͦ̿̄̿̿ͣ͠n̵̷̛̜͉͚ͫ̿̒̿̿ͅ͏͓̿k̙͉᷿̫͍᷁̿̂̿̓̿̉̿̚͝
